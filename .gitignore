@@ -1,0 +1,12 @@
+# Composer
+vendor
+
+# WP
+#secrets
+wp/
+!wp-content/
+wp-content/*
+!wp-content/plugins/
+wp-content/plugins/*
+!wp-content/plugins/storyteller/
+!wp-content/plugins/ourhousing/
