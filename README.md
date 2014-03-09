@@ -13,11 +13,13 @@ Version control your code through Git but without including WordPress or any dep
 1. Clone or download this repo
 1. Get rid of the .git directory (if you cloned) to remove the template's history
 1. Open up .gitignore and uncomment lines 6 and 10-15
-1. Remove the example plugins from composer.json (DON'T remove WordPress)
-1. `composer install` to install WordPress and any dependent plugins/themes
+1. Remove the example plugins from composer.json, if you want to (DON'T remove WordPress)
 1. `git init`
 1. `git add *`
 1. `git commit -m "First commit"`
+1. `composer install` to install WordPress and any dependent plugins/themes
+1. Open up secrets/environment.php and check which environment you want to set
+1. Open up secrets/keys.php and provide new salts and database credentials
 1. Develop you project, adding your custom plugins/themes as relevant
 1. Update .gitignore to make sure that your custom code isn't ignored
 
