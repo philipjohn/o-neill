@@ -28,6 +28,10 @@ composer install`
 
 Included in this template's composer.json are two excellent plugins from @johnbillion to demonstrate how you can include your dependent plugins
 
+## O'Neill?
+
+What is a developer to do when he can't think of a name for his little project? Yes, that's right, leverage his love of sci-fi franchise Stargate. O'Neill is named after [Colonel Jack O'Neill of SG-1](https://en.wikipedia.org/wiki/Jack_O'Neill), because geek.
+
 ## Credits
 
 Kudos to the [Roots primer on Composer & WordPress](http://roots.io/using-composer-with-wordpress/) for the inspiration.
