@@ -63,7 +63,8 @@
 	},
 	"extra":{
 		"installer-paths": {
-			"wp-content/plugins/{$name}/": ["type:wordpress-plugin"]
+			"wp-content/plugins/{$name}/": ["type:wordpress-plugin"],
+			"wp-content/themes/{$name}/": ["type:wordpress-theme"]
 		},
 		"webroot-dir":"wp",
 		"webroot-package":"wordpress"
