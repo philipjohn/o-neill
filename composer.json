@@ -35,22 +35,6 @@
 		{
 			"type": "package",
 			"package": {
-				"name": "cftp/sync-post-types-to-taxonomies",
-				"version": "1.1",
-				"type": "wordpress-plugin",
-				"source": {
-					"url": "https://github.com/cftp/sync-post-types-to-taxonomies.git",
-					"type": "git",
-					"reference": "master"
-				},
-				"require": {
-					"composer/installers": "1.0.7"
-				}
-			}
-		},
-		{
-			"type": "package",
-			"package": {
 				"name": "johnbillion/ExtendedTaxos",
 				"version": "1.5.1",
 				"type": "wordpress-plugin",
@@ -75,7 +59,6 @@
 		"fancyguy/webroot-installer":"1.0.0",
 		"wpackagist-plugin/advanced-custom-fields":">=4.3",
 		"johnbillion/extendedcpts":"2.3.*",
-		"cftp/sync-post-types-to-taxonomies": "1.1",
 		"johnbillion/ExtendedTaxos": "1.5.*"
 	},
 	"extra":{
