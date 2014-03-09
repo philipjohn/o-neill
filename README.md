@@ -24,9 +24,11 @@ Version control your code through Git but without including WordPress or any dep
 1. Update .gitignore to make sure that your custom code isn't ignored
 
 Once you've got a working project, deploying it elsewhere should be as easy as;
-`git clone git@gitremote.com:your-project.git your-project
+```
+git clone git@gitremote.com:your-project.git your-project
 cd your-project
-composer install`
+composer install
+```
 
 Included in this template's composer.json are two excellent plugins from @johnbillion to demonstrate how you can include your dependent plugins
 
