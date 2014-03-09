@@ -13,9 +13,10 @@ wp/
 #wp-content/plugins/*
 #!wp-content/themes/
 #wp-content/themes/*
+!wp-content/themes/twentyfourteen # we need at least one
 
 # Add any plugins you're developing here, like so;
-#!wp-content/plugins/my-plugin
+!wp-content/plugins/my-plugin
 
 # Add any themes you're developing here, like so;
 !wp-content/themes/my-theme
