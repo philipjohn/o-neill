@@ -1,12 +1,21 @@
 # Composer
 vendor
 
-# WP
+# This is where we keep our precious things
+# Uncomment it once you've cloned this template!
 #secrets
+
+# WP
 wp/
-!wp-content/
-wp-content/*
-!wp-content/plugins/
-wp-content/plugins/*
-!wp-content/plugins/storyteller/
-!wp-content/plugins/ourhousing/
+#!wp-content/
+#wp-content/*
+#!wp-content/plugins/
+#wp-content/plugins/*
+#!wp-content/themes/
+#wp-content/themes/*
+
+# Add any plugins you're developing here, like so;
+#!wp-content/plugins/my-plugin
+
+# Add any themes you're developing here, like so;
+!wp-content/themes/my-theme
