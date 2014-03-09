@@ -30,7 +30,7 @@ cd your-project
 composer install
 ```
 
-Included in this template's composer.json are two excellent plugins from @johnbillion to demonstrate how you can include your dependent plugins
+Included in this template's composer.json are two excellent plugins from [@johnbillion](https://github.com/johnbillion) to demonstrate how you can include your dependent plugins.
 
 ## O'Neill?
 
