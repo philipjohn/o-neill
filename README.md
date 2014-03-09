@@ -20,7 +20,7 @@ Version control your code through Git but without including WordPress or any dep
 1. `composer install` to install WordPress and any dependent plugins/themes
 1. Open up secrets/environment.php and check which environment you want to set
 1. Open up secrets/keys.php and provide new salts and database credentials
-1. Develop you project, adding your custom plugins/themes as relevant
+1. Develop your project, adding your custom plugins/themes as relevant
 1. Update .gitignore to make sure that your custom code isn't ignored
 
 Once you've got a working project, deploying it elsewhere should be as easy as;
