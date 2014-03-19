@@ -12,6 +12,7 @@ Version control your code through Git but without including WordPress or any dep
 
 1. Clone or download this repo
 1. Get rid of the .git directory (if you cloned) to remove the template's history
+1. Rename gitignore to .gitignore
 1. Open up .gitignore and uncomment lines 6 and 10-15
 1. Remove the example plugins from composer.json, if you want to (DON'T remove WordPress)
 1. `git init`
