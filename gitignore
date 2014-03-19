@@ -1,0 +1,25 @@
+# Composer
+vendor
+
+# This is where we keep our precious things
+secrets
+
+# WP
+wp/
+!wp-content/
+wp-content/*
+!wp-content/plugins/
+wp-content/plugins/*
+!wp-content/themes/
+wp-content/themes/*
+
+# Let's have a default theme, eh?
+!wp-content/themes/twentyfourteen
+
+# Add any plugins you're developing here. Include
+# ONLY original code, not existing plugins
+!wp-content/plugins/my-plugin
+
+# Add any themes you're developing here. Include
+# ONLY original code, not existing themes
+!wp-content/themes/my-theme
