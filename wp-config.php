@@ -15,7 +15,7 @@
  */
 
 /**
- * Automatic Url + Content Dir/Url Detection for Wordpress
+ * Automatic Url + Content Dir/Url Detection for WordPress
  */
 $document_root = rtrim(str_replace(array('/', '\\'), '/', $_SERVER['DOCUMENT_ROOT']), '/');
 
