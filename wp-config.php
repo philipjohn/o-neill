@@ -36,7 +36,7 @@ $wp_url = $scheme . $host . $port . $wp_url;
 $wp_content_url = $scheme . $host . $port . $wp_content_url;
 
 define('WP_HOME', $root_url); //url to index.php
-define('WP_SITEURL', $wp_url); //url to wordpress installation
+define('WP_SITEURL', $wp_url); //url to WordPress installation
 define('WP_CONTENT_DIR', $wp_content_dir); //wp-content dir
 define('WP_CONTENT_URL', $wp_content_url); //wp-content url
 
